@@ -1,0 +1,6 @@
+apache-airflow-providers-postgres==6.7.0
+apache-airflow-providers-standard==1.13.1
+apache-airflow-providers-fab==3.6.4
+requests==2.34.2
+psycopg2-binary
+dbt-postgres==1.11.0
